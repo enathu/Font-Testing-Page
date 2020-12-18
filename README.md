@@ -1,5 +1,8 @@
 ###Tamil Font Testing Page
 
+Update (18.12.2020)
+- Added Oum ௐ glyph
+
 Update (27.06.2015) - v0.30
 - Added Tamil plus Latin phrases
 - Added Kerning pairs
@@ -8,7 +11,7 @@ Update (27.06.2015) - v0.30
 - Added Shree
 
 
-Live at http://niram.xyz/tamil-font-test
+Live at http://niram.org/tamil-font-test
 
 Tamil Font Testing Page is a tool to test Tamil fonts which are in development. Simply 'Drag and Drop' the work in progress, font into a browser to see how it displayed in a browser.
 
